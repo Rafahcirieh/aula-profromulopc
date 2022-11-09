@@ -27,9 +27,82 @@
                     <input type="radio" value="TELEFONE">
                     <label><input type="checkbox">MAE SOLTEIRA</label>
                     <br>
-                  <input type="submit" value="Enviar dados">
-
-            </form>
+                  <input type="submit" value="Enviar dados"
+         
+                </form>
+                   <table>
+                      <tr>
+                      
+                      <td>Horário</td>
+                      <td>Segunda</td>
+                      <td>Terça</td>
+                      <td>Quarta</td>
+                      <td>Quinta</td>
+                      <td>Sexta</td>
+                      
+                      </tr>
+                      
+                      <tr>
+                      
+                       <td>7:10</td>
+                       <td>Artes</td>
+                       <td>Projeto de vida</td>
+                       <td>Artes</td>  
+                       <td>Ed Financeira</td>
+                       <td>Português</td>
+                       
+                       </tr>
+                       
+                       <tr>
+                       
+                       <td>8:10</td>
+                       <td>Português</td>
+                       <td>Ed financeira</td>
+                       <td>Biologia</td>
+                       <td>Artes</td>
+                       <td>Artes</td>
+                       <td>Artes</td>
+                       
+                       </tr>
+                       
+                         <tr>
+                       
+                       <td>9:10</td>
+                       <td>Mtematica</td>
+                       <td>Matematica</td>
+                       <td>Biologia</td>
+                       <td>Fisica</td>
+                       <td>Artes</td>
+                       <td>Artes</td>
+                       
+                       </tr>
+                       
+                         <tr>
+                       
+                       <td>10:10</td>
+                       <td>Português</td>
+                       <td>Portugues</td>
+                       <td>Fisica</td>
+                       <td>Projeto de vida</td>
+                       <td>Ed fisica</td>
+                       <td>ED fisica</td>
+                       
+                       </tr>
+                       
+                         <tr>
+                       
+                       <td>8:10</td>
+                       <td>Português</td>
+                       <td>Geografia</td>
+                       <td>Geografia</td>
+                       <td>Historia</td>
+                       <td>Historia</td>
+                       <td>Portugues</td>
+                       
+                       </tr>
+                      
+                   </table>
+                </form>
       </main>
 </body>
 </html>
